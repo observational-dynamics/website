@@ -4,20 +4,22 @@ description: It formalizes principles of self-organization and quantifies the �
 ---
 
 ## Abstract
-Observational Dynamics (OD) offers an integrated framework grounded in thermodynamics to model the emergence of subjective experience from the energetic coupling between an observer system and its environment. 
 
-It formalizes principles of self-organization and quantifies the “inductive capacity” of interfaces to actively induce ordering, measured information-theoretically. 
+Observational Dynamics (OD) offers an integrated framework grounded in thermodynamics to model the emergence of subjective experience from the energetic coupling between an observer system and its environment.
+
+It formalizes principles of self-organization and quantifies the “inductive capacity” of interfaces to actively induce ordering, measured information-theoretically.
 
 This enables capturing the pathways from interaction patterns to awareness. OD provides a universal language bridging subjective experience with physical dynamics across scales and disciplines.
 
 ## Introduction
-The subjective experience of an observer emerges through a constant interchange with its environment, yet science lacks an integrated theory explaining how awareness arises from this interaction. Models to date have been fragmented across disciplines, providing piecemeal insights into isolated facets of observation such as thermodynamics, information theory, or neuroscience without a unifying framework [1]. This has hampered a full understanding of perception, cognition, and consciousness. 
+
+The subjective experience of an observer emerges through a constant interchange with its environment, yet science lacks an integrated theory explaining how awareness arises from this interaction. Models to date have been fragmented across disciplines, providing piecemeal insights into isolated facets of observation such as thermodynamics, information theory, or neuroscience without a unifying framework [1]. This has hampered a full understanding of perception, cognition, and consciousness.
 
 This paper presents Observational Dynamics (OD) as a novel, multiscale modeling approach that represents the observer and its surroundings as coupled dynamical systems engaged in circular flows of energy and entropy [2,3]. It formalizes the subjective perspective using the language of physics, bridging quantum to cosmic scales under a single framework.
 
 The core innovation of OD is quantifying the observer’s “potential energy” to affect its environment and the “impedance” factors that regulate the discharge of this potential via interfaces that shape the subjective experience [4,5]. Mathematical constructs from thermodynamics, information theory, and circuit analysis provide analytical rigor.
 
-Additionally, OD incorporates the principles of self-organization, modeling awareness as an emergent process shaped by interaction dynamics [6,7]. The inductive capacities of interfaces are quantified information-theoretically to capture their role in inducing order [8]. 
+Additionally, OD incorporates the principles of self-organization, modeling awareness as an emergent process shaped by interaction dynamics [6,7]. The inductive capacities of interfaces are quantified information-theoretically to capture their role in inducing order [8].
 
 Together, these innovations enable OD models to capture the complex pathways from perceptual interaction to higher-order awareness [9,10]. OD moves beyond passive, feedforward models to recognize the interactive nature of observer-environment coupling, with implications for criticality and the emergence of awareness [11,12]. It offers a versatile toolkit integrating computational techniques with empirical validation across disciplines.
 
@@ -26,29 +28,28 @@ The integrated OD paradigm provides the formal foundation to reconceptualize sub
 ## References 1
 
 ---
-[1] Friston, K. (2012). A free energy principle for biological systems. Entropy, 14(11), 2100-2121. 
+[1] Friston, K. (2012). A free energy principle for biological systems. Entropy, 14(11), 2100-2121.
 [2] Ramstead et al. (2018). Answering Schrödinger's question: A free-energy formulation. Physics of Life Reviews, 24, 1-16.
 [3] Sengupta et al. (2013). Information and efficiency in the nervous system—a synthesis. PLoS Computational Biology, 9(7), e1003157.
 [4] Baltieri & Buckley (2019). Generative architectures as active inference machines. Entropy.
-[5] Parvizi & Van Hoesen (2021). Consciousness. Springer. 
+[5] Parvizi & Van Hoesen (2021). Consciousness. Springer.
 [6] Kelso, J. S. (1995). Dynamic patterns: The self-organization of brain and behavior. MIT press.
 [7] Kauffman, S. A. (1993). The origins of order: Self-organization and selection in evolution. Oxford University Press, USA.
 [8] Lizier et al. (2013) Information dynamics in small-world Boolean networks. Artificial Life.
-[9] Mashour & Alkire (2013). Evolution of consciousness: Phylogeny, ontogeny, and emergence from general anesthesia. PNAS. 
+[9] Mashour & Alkire (2013). Evolution of consciousness: Phylogeny, ontogeny, and emergence from general anesthesia. PNAS.
 [10] Tononi et al. (2016). Integrated information theory: from consciousness to its physical substrate. Nature Reviews Neuroscience.
 [11] Kelso, J. S. (1995). Dynamic patterns: The self-organization of brain and behavior. MIT press.
 [12] Kauffman, S. A. (1993). The origins of order: Self-organization and selection in evolution. Oxford University Press, USA.
 
-  
-
 ## Thermodynamics of Observation
-A key premise of Observational Dynamics is representing the subjective observer and its environment as thermodynamically coupled systems engaged in the exchange of energy and entropy. This bridges the observer's internal, subjective experience with measurable physical variables [1,2]. 
 
-The second law of thermodynamics states that isolated systems evolve toward thermodynamic equilibrium, minimizing free energy. However, an observer maintains itself in a low-entropy state distinct from its surroundings by constantly dissipating potential free energy accumulated from metabolic, cognitive, or other processes [3]. 
+A key premise of Observational Dynamics is representing the subjective observer and its environment as thermodynamically coupled systems engaged in the exchange of energy and entropy. This bridges the observer's internal, subjective experience with measurable physical variables [1,2].
+
+The second law of thermodynamics states that isolated systems evolve toward thermodynamic equilibrium, minimizing free energy. However, an observer maintains itself in a low-entropy state distinct from its surroundings by constantly dissipating potential free energy accumulated from metabolic, cognitive, or other processes [3].
 
 This potential energy discharge into the environment, coupled to impedance factors which will be elaborated shortly, constitutes the act of observation within the OD framework. It is associated with entropy changes in both the observer and environment [4,5].
 
-Furthermore, incorporating the principles of self-organization into OD frames perception and consciousness as auto-catalytic processes arising from the co-creative interplay between observer and environment [6,7]. 
+Furthermore, incorporating the principles of self-organization into OD frames perception and consciousness as auto-catalytic processes arising from the co-creative interplay between observer and environment [6,7].
 
 Quantitatively, the thermodynamic dynamics can be derived from the differential equations for an open dissipative system [8]:
 
@@ -58,9 +59,9 @@ dUo/dt = Po(t) - (dUe/dt + dW/dt)
 
 ---
 
-Here Uo and Ue are the internal energies of the observer and environment respectively, Po represents the potential energy replenishment of the observer, and dW/dt is the power dissipated by impedance. 
+Here Uo and Ue are the internal energies of the observer and environment respectively, Po represents the potential energy replenishment of the observer, and dW/dt is the power dissipated by impedance.
 
-This models observation as a continuous process of potential energy discharge and entropy exchange between systems, aligning with the subjective experience of perceiving a dynamically changing environment. 
+This models observation as a continuous process of potential energy discharge and entropy exchange between systems, aligning with the subjective experience of perceiving a dynamically changing environment.
 
 The thermodynamic formalism provides rigorous grounding for the OD framework while opening modeling opportunities across disciplines dealing with flows of energy, matter, and entropy [9].
 
@@ -68,7 +69,7 @@ The thermodynamic formalism provides rigorous grounding for the OD framework whi
 
 ---
 [1] England, J. L. (2013). Statistical physics of self-replication. The Journal of Chemical Physics, 139(12), 121923.
-[2] Kleidon, A., & Lorenz, R. D. (Eds.). (2005). Non-equilibrium thermodynamics and the production of entropy: life, earth, and beyond. Springer Science & Business Media. 
+[2] Kleidon, A., & Lorenz, R. D. (Eds.). (2005). Non-equilibrium thermodynamics and the production of entropy: life, earth, and beyond. Springer Science & Business Media.
 [3] England, J. L. (2013). Statistical physics of self-replication. The Journal of Chemical Physics, 139(12), 121923.
 [4] Kleidon, A., & Lorenz, R. D. (Eds.). (2005). Non-equilibrium thermodynamics and the production of entropy: life, earth, and beyond. Springer Science & Business Media.
 [5] Martyushev, L. M., & Seleznev, V. D. (2014). The restrictions of the maximum entropy production principle. Physica A: Statistical Mechanics and its Applications, 410, 17-21.
@@ -77,25 +78,25 @@ The thermodynamic formalism provides rigorous grounding for the OD framework whi
 [8] Kondepudi, D., & Prigogine, I. (2014). Modern thermodynamics: from heat engines to dissipative structures. John Wiley & Sons.
 [9] Martyushev, L. M., & Seleznev, V. D. (2014). The restrictions of the maximum entropy production principle. Physica A: Statistical Mechanics and its Applications, 410, 17-21.
 
-  
 ## Environmental Replenishment
+
 In OD models, the environment E has its own potential energy EE that gets depleted when transferred to the observer O during observation. For continued interaction, this energy must also be replenished over time [1,2].
 
 Examples of environmental replenishment include:
 
-- Solar radiation driving photosynthesis to replenish chemical energy in ecosystems [3] 
-    
+- Solar radiation driving photosynthesis to replenish chemical energy in ecosystems [3]
+
 - Nutrient cycles in biospheres regenerating nutrients and biomass [4]
-    
+
 - Social dynamics restoring cultural narratives, practices, and belief systems [5]
-    
-- Computer systems recharging batteries, updating data streams, and allocating memory/compute [6] 
-    
+
+- Computer systems recharging batteries, updating data streams, and allocating memory/compute [6]
+
 - Particle accelerators imparting energy to maintain collisions [7]
-    
+
 - Quantum fields fluctuating to counteract energy losses [8]
-    
-Furthermore, the rates and mechanisms of replenishment can be formally modeled using dynamics equations and empirically measured to validate models across different environments [9]. 
+
+Furthermore, the rates and mechanisms of replenishment can be formally modeled using dynamics equations and empirically measured to validate models across different environments [9].
 
 Environmental replenishment captures the dynamics by which environments regenerate their energy potentials needed to sustain continued interactions with observers. Including environmental replenishment principles in OD models provides a more complete representation of the circular energetics linking observer and environment.
 
@@ -103,7 +104,7 @@ Environmental replenishment captures the dynamics by which environments regenera
 
 ---
 [1] Friston K. (2010) The free-energy principle: a unified brain theory? Nature Reviews Neuroscience.
-[2] Ramstead et al. (2018) Answering Schrödinger’s question: A free-energy formulation. Physics of Life Reviews. 
+[2] Ramstead et al. (2018) Answering Schrödinger’s question: A free-energy formulation. Physics of Life Reviews.
 [3] Blankenship (2014). Molecular Mechanisms of Photosynthesis. Wiley Blackwell.
 [4] Likens & Bormann (1974). Linkages between terrestrial and aquatic ecosystems. Bioscience.
 [5] Barker (2008). Social Representations, Social Psychology and Social Change. Journal for the Theory of Social Behaviour.
@@ -112,19 +113,13 @@ Environmental replenishment captures the dynamics by which environments regenera
 [8] Peskin & Schroeder (1995). An Introduction to Quantum Field Theory. Perseus Books.
 [9] Jørgensen & Fath (2004). Application of thermodynamic principles in ecology. Ecological Complexity.
 
-  
-
-  
-
-  
-
 # The Observer-Environment Model
 
-Building upon the thermodynamic foundations, Observational Dynamics represents the subjective observer (O) and its external environment (E) as an integrated system with circular flows of energy and entropy between the systems [1,2]. 
+Building upon the thermodynamic foundations, Observational Dynamics represents the subjective observer (O) and its external environment (E) as an integrated system with circular flows of energy and entropy between the systems [1,2].
 
 This models the coupling between observer and environment, with observation emerging from the interface that regulates the energy-entropy exchange. The dynamics of the coupled O-E system determine the observer's subjective perspective [3].
 
-Furthermore, O and E can each be represented as self-organizing systems, with circular flows driving autonomous ordering processes according to interaction patterns [4,5]. 
+Furthermore, O and E can each be represented as self-organizing systems, with circular flows driving autonomous ordering processes according to interaction patterns [4,5].
 
 Quantifying the interface properties in terms of inductive capacities and impedances enables modeling the pathways from physical interaction to subjective awareness [6].
 
@@ -140,7 +135,7 @@ Where UO and UE are the internal energies of O and E, PO(t) is the replenishment
 
 ---
 
-Different interface properties lead to different subjective experiences of the same environment. This couples inner awareness to external context. The O-E model provides a basis to relate physical dynamics to subjective perspective using the OD framework. 
+Different interface properties lead to different subjective experiences of the same environment. This couples inner awareness to external context. The O-E model provides a basis to relate physical dynamics to subjective perspective using the OD framework.
 
 Moving forward, we further formalize the energy flow equations, impedance factors, interface properties, entropy dynamics, and circuit analogies to create a mathematical model bridging experience with dynamics.
 
@@ -150,18 +145,19 @@ Moving forward, we further formalize the energy flow equations, impedance factor
 
 [1] Friston K. (2010) The free-energy principle: a unified brain theory? Nature Reviews Neuroscience.
 [2] Ramstead et al. (2018) Answering Schrödinger’s question: A free-energy formulation. Physics of Life Reviews.
-[3] Sengupta et al. (2013) Information and efficiency in the nervous system—a synthesis. PLoS Computational Biology. 
+[3] Sengupta et al. (2013) Information and efficiency in the nervous system—a synthesis. PLoS Computational Biology.
 [4] Kelso J. S. (1995) Dynamic patterns: The self-organization of brain and behavior. MIT Press.
 [5] Kauffman S. A. (1993) The origins of order: Self-organization and selection in evolution. Oxford University Press.
 [6] Lizier et al. (2013) Information dynamics in small-world Boolean networks. Artificial Life.
 [7] Parvizi J. & Van Hoesen G.W. (2021) Consciousness. Springer.
 
-  
 # Mathematical Formalism
+
 Observational Dynamics provides a mathematical framework using thermodynamics and information theory to model observation systems across scales. Key representations include discrete observation equations and continuous coupled flow equations [1-3].
 
 ## Discrete Observation Equations
-For a discrete observation, the change in an observer's potential energy EO is: 
+
+For a discrete observation, the change in an observer's potential energy EO is:
 
 ---
 
@@ -169,11 +165,11 @@ For a discrete observation, the change in an observer's potential energy EO is:�
 
 Where:
 
-ΔEO = Change in observer potential energy 
+ΔEO = Change in observer potential energy
 
 PO(t) = Observer potential replenishment over time t
 
-ZO = Impedance or dissipative losses for observer 
+ZO = Impedance or dissipative losses for observer
 
 ΔEE = Change in environment potential energy
 
@@ -182,6 +178,7 @@ ZO = Impedance or dissipative losses for observer 
 This represents the energy exchange for a single observation act. For example in a particle system, a photon observer absorbs an electron, transferring discrete quanta ΔQ. The dynamics depend on the system's potential, impedance, and environment coupling.
 
 ## Continuous Energy Flow Equations
+
 For continuous dynamics, the rate of change in potential is:
 
 ## For the Observer
@@ -190,10 +187,11 @@ For continuous dynamics, the rate of change in potential is:
 
 dEO/dt = P(t) - F(EO, EE, Z)
 
-Where F is the continuous flow rate function dependent on the potentials and impedance. 
+Where F is the continuous flow rate function dependent on the potentials and impedance.
 
 ---
-## For the environment 
+
+## For the environment
 
 ---
 
@@ -201,7 +199,7 @@ dEE/dt = G(EO, EE, Z)
 
 ---
 
-These coupled equations model the dynamic energy exchange between systems. For example, in a cellular system metabolic fluxes and membrane potentials; or in an ecosystem, species populations and energy flows. 
+These coupled equations model the dynamic energy exchange between systems. For example, in a cellular system metabolic fluxes and membrane potentials; or in an ecosystem, species populations and energy flows.
 
 We can further formalize impedance factors, interface properties, entropy dynamics, and circuit representations within this mathematical framework to quantify observational systems across domains [4-6]. The OD formalism bridges subjective experience with measurable dynamical parameters.
 
@@ -211,18 +209,18 @@ We can further formalize impedance factors, interface properties, entropy dynami
 
 [1] Kleidon, A., & Lorenz, R. D. (Eds.). (2005). Non-equilibrium thermodynamics and the production of entropy: life, earth, and beyond. Springer Science & Business Media.
 [2] Kondepudi, D., & Prigogine, I. (2014). Modern thermodynamics: from heat engines to dissipative structures. John Wiley & Sons.
-[3] Parvizi J. & Van Hoesen G.W. (2021) Consciousness. Springer International Publishing. 
+[3] Parvizi J. & Van Hoesen G.W. (2021) Consciousness. Springer International Publishing.
 [4] DeDeo S. (2020) Information theory for intelligent people. arXiv:2010.02522.
 [5] Fraden J. (2016) Handbook of Modern Sensors. Springer International Publishing.
 [6] Strogatz S.H. (2014) Nonlinear Dynamics and Chaos. Hachette UK.
 
-## Circuit Analogies 
+## Circuit Analogies
+
 Representing Observational Dynamics systems as electrical circuits provides an intuitive way to model the thermodynamics using common circuit elements like capacitors, resistors, and transistors. This enables leveraging electrical engineering techniques for analysis [1,2].
 
 The analogies are:
 
-
-Potential Energy (PE) -> Capacitor 
+Potential Energy (PE) -> Capacitor
 
 Potential Replenishment (PR) -> Voltage Source
 
@@ -258,14 +256,13 @@ As one example, a photon observer system transferring energy to an electron envi
 
 Photon PE -> Capacitor  
 
-EM radiation PR -> Voltage source 
+EM radiation PR -> Voltage source
 
 Electron binding Z -> Resistor
 
 Photon-electron interface -> Transistor
 
 Electron orbital S -> Inductor
-
 
 This enables circuit-based modeling of quantum observation dynamics. As another example, a robot observer integrating visual data:
 
@@ -285,14 +282,14 @@ In summary, the analogies provide an intuitive representation complementing the 
 
 ---
 [1] Dorf R.C. & Svoboda J.A. (2010) Introduction to Electric Circuits. John Wiley & Sons.
-[2] Strogatz S.H. (2014) Nonlinear Dynamics and Chaos. Hachette UK. 
+[2] Strogatz S.H. (2014) Nonlinear Dynamics and Chaos. Hachette UK.
 [3] Mitchell M. (2009) Complexity: A Guided Tour. Oxford University Press.
 [4] Barabási A.-L. (2016) Network Science. Cambridge University Press.
 [5] Newman M. (2018) Networks. Oxford University Press.
 
 ## Impedance Factors
 
-The impedance Z represents dissipative losses that resist and regulate the flow of potential energy from the observer to the environment. It accounts for interface effects and environment factors that determine resistance to energy transfer [1,2]. 
+The impedance Z represents dissipative losses that resist and regulate the flow of potential energy from the observer to the environment. It accounts for interface effects and environment factors that determine resistance to energy transfer [1,2].
 
 Mathematically, impedance is defined as a function:
 
@@ -302,7 +299,7 @@ Z = f(SE, EE, t)
 
 Where:
 
-SE = Entropy of the environment   
+SE = Entropy of the environment
 
 EE = Energy state of the environment
 
@@ -314,7 +311,7 @@ The form of the function f depends on theoretical principles and empirical data.
 
 Some examples of possible impedance functions include:
 
-## Linear model 
+## Linear model
 
 ---
 
@@ -328,7 +325,7 @@ Where k1, k2, k3 are fitted constants.
 
 ---
 
-Z = k1(SE^2 + EE^2)^(1/2) 
+Z = k1(SE^2 + EE^2)^(1/2)
 
 Where k1 is a constant.
 
@@ -354,8 +351,6 @@ Where IE represents additional context parameters [7,8].
 
 ---
 
-  
-
 Accurately estimating impedance is key to producing valid OD models across disciplines. Computational techniques can help fit functions to empirical measurements [9].
 
 In summary, impedance regulates potential energy flow and reorganization dynamics. Quantifying impedance based on thermodynamic principles and data enables applying OD models universally [10].
@@ -367,7 +362,7 @@ In summary, impedance regulates potential energy flow and reorganization dynamic
 [1] Martyushev, L. M., & Seleznev, V. D. (2014). The restrictions of the maximum entropy production principle. Physica A: Statistical Mechanics and its Applications, 410, 17-21.
 [2] Kondepudi, D., & Prigogine, I. (2014). Modern thermodynamics: from heat engines to dissipative structures. John Wiley & Sons.
 [3] England, J. L. (2013). Statistical physics of self-replication. The Journal of Chemical Physics, 139(12), 121923.
-[4] Parvizi J. & Van Hoesen G.W. (2021) Consciousness. Springer International Publishing. 
+[4] Parvizi J. & Van Hoesen G.W. (2021) Consciousness. Springer International Publishing.
 [5] Friston, K. (2012). A free energy principle for biological systems. Entropy, 14(11), 2100-2121.
 [6] Dorf R.C. & Svoboda J.A. (2010) Introduction to Electric Circuits. John Wiley & Sons.
 [7] Jordan M.I. & Mitchell T.M. (2015) Machine learning: Trends, perspectives, and prospects. Science.
@@ -381,7 +376,7 @@ Information theory provides powerful quantifiers for analyzing Observational Dyn
 
 ### Entropy
 
-Quantifies disorder/uncertainty in a system. For an observer O: 
+Quantifies disorder/uncertainty in a system. For an observer O:
 
 ---
 
@@ -395,7 +390,7 @@ In OD systems, observer and environment entropy changes reveal dynamics:
 
 ---
 
-ΔS(O) = ΔQ/T(O) 
+ΔS(O) = ΔQ/T(O)
 
 ΔS(E) = -ΔQ/T(E)
 
@@ -405,7 +400,7 @@ Where ΔQ is heat transfer and T is temperature. Interface properties regulate e
 
 ### Mutual Information
 
-Measures shared signal between observer O and environment E [5]: 
+Measures shared signal between observer O and environment E [5]:
 
 ---
 
@@ -421,7 +416,7 @@ Divergence between internal model M and external environment E [6]:
 
 ---
 
-D(M||E) = ∑pM(e)log(pM(e)/pE(e)) 
+D(M||E) = ∑pM(e)log(pM(e)/pE(e))
 
 ---
 
@@ -435,9 +430,9 @@ References:
 [2] Cover T.M. & Thomas J.A. (2012) Elements of information theory. Wiley.
 [3] Sengupta B. et al. (2013) Information and efficiency in the nervous system—a synthesis. PLoS Computational Biology.
 [4] Kondepudi D. & Prigogine I. (2014) Modern thermodynamics. John Wiley & Sons.
-[5] Adami C. (2004) Information theory in molecular biology. Physics of Life Reviews. 
+[5] Adami C. (2004) Information theory in molecular biology. Physics of Life Reviews.
 [6] Ramstead et al. (2018) Answering Schrödinger’s question: A free-energy formulation. Physics of Life Reviews.
-[7] Lizier J.T. et al. (2013) Information dynamics in small-world Boolean networks. Artificial Life. 
+[7] Lizier J.T. et al. (2013) Information dynamics in small-world Boolean networks. Artificial Life.
 [8] Prokopenko M. et al. (2011) Relating Fisher information to order parameters. Physical Review E.
 [9] Mitchell M. (2009) Complexity: A Guided Tour. Oxford University Press.
 
@@ -461,7 +456,7 @@ Visualizing OD system trajectories in the energy-entropy plane provides insights
 
 ### Circuit modeling
 
-Electrical circuit simulations complement mathematical analysis by leveraging well-developed tools for characterizing circuit behaviors under varying inputs and network structures [7]. 
+Electrical circuit simulations complement mathematical analysis by leveraging well-developed tools for characterizing circuit behaviors under varying inputs and network structures [7].
 
 ### Parameter fitting
 
@@ -469,7 +464,7 @@ Regression techniques like least squares estimation can fit OD equations to empi
 
 ### Network science
 
-The OD framework extends naturally to interconnected observers [9]. Measures like betweenness centrality and clustering coefficients applied to OD networks reveal collective dynamics [10]. 
+The OD framework extends naturally to interconnected observers [9]. Measures like betweenness centrality and clustering coefficients applied to OD networks reveal collective dynamics [10].
 
 While powerful, OD has limitations including assumptions requiring empirical validation across domains [11]. Nonetheless, these modeling approaches enable applying Observational Dynamics across disciplines and scales, bridging theory with real-world data [12]. The toolkit provides analytical rigor combined with computational power to study the foundations of perception and cognition within a consistent mathematical language.
 
@@ -478,21 +473,21 @@ While powerful, OD has limitations including assumptions requiring empirical val
 ---
 
 [1] Strogatz S.H. (2014) Nonlinear Dynamics and Chaos. Hachette UK.
-[2] Newman M. (2018) Networks. Oxford University Press. 
+[2] Newman M. (2018) Networks. Oxford University Press.
 [3] Dorf R.C. & Svoboda J.A. (2010) Introduction to Electric Circuits. John Wiley & Sons.
 [4] Kelso J. S. (1995) Dynamic patterns: The self-organization of brain and behavior. MIT press.
 [5] Kantz H. & Schreiber T. (2004) Nonlinear Time Series Analysis. Cambridge University Press.
-[6] Lizier J.T. et al. (2013) Information dynamics in small-world Boolean networks. Artificial Life. 
+[6] Lizier J.T. et al. (2013) Information dynamics in small-world Boolean networks. Artificial Life.
 [7] Mitchell M. (2009) Complexity: A Guided Tour. Oxford University Press.  
 [8] Motulsky H.J. & Brown R.E. (2006) Detecting outliers when fitting data with nonlinear regression – a new method based on robust nonlinear regression and the false discovery rate. BMC Bioinformatics.
 [9] Tononi et al. (2016). Integrated information theory: from consciousness to its physical substrate. Nature Reviews Neuroscience.
 [10] Barabási A.-L. (2016) Network Science. Cambridge University Press.
 [11] Friston K. (2012). A free energy principle for biological systems. Entropy, 14(11), 2100-2121.
-[12] Ramstead et al. (2018). Answering Schrödinger’s question: A free-energy formulation. Physics of Life Reviews, 24, 1-16.   
+[12] Ramstead et al. (2018). Answering Schrödinger’s question: A free-energy formulation. Physics of Life Reviews, 24, 1-16.
 
 ## Symmetries Across Scales
 
-A key insight from Observational Dynamics is the identification of mathematical symmetries in the equations governing interaction dynamics across diverse observing systems [1-3]. 
+A key insight from Observational Dynamics is the identification of mathematical symmetries in the equations governing interaction dynamics across diverse observing systems [1-3].
 
 In particular, the same OD differential equations describe the thermodynamics of observation over micro and macro scales when system-specific parameters are adjusted:
 
@@ -507,10 +502,10 @@ dEE/dt = G(EO, EE, Z)
 For example, these equations model:
 
 - Particle systems by setting EO as photon energy, EE as electron energy, Z as atomic impedance.
-- Organismic systems by setting EO as metabolic resources, EE as environmental nutrients, Z as behavioral impedance. 
+- Organismic systems by setting EO as metabolic resources, EE as environmental nutrients, Z as behavioral impedance.
 - AI systems by setting EO as computational capacity, EE as data streams, Z as algorithmic impedance.
 
-While the interpretation of the variables shifts, the underlying dynamics retain the same form [4,5]. This demonstrates a symmetry - the same thermodynamic principles govern observation at microscopic and macroscopic scales. Only the specific parameter values differ between systems [6,7]. 
+While the interpretation of the variables shifts, the underlying dynamics retain the same form [4,5]. This demonstrates a symmetry - the same thermodynamic principles govern observation at microscopic and macroscopic scales. Only the specific parameter values differ between systems [6,7].
 
 Similar symmetries extend across physical, biological, cognitive, and social systems, unifying diverse observing contexts [8,9]. OD offers a consistent language and mathematics to compare observation dynamics across domains [10].
 
@@ -525,11 +520,11 @@ This reveals deeper connections between observers previously considered distinct
 dEO/dt = P(t) - kEO/EE  
 dEE/dt = -kEO/EE
 
-Where: 
+Where:
 
-EO = Electron energy state 
+EO = Electron energy state
 
-EE = Photon energy state 
+EE = Photon energy state
 
 k = Coupling constant
 
@@ -543,11 +538,11 @@ This models electron-photon interactions.
 
 dEO/dt = P(t) - F(EO, EE, Z) dEE/dt = G(EO, EE, Z)
 
-Where: 
+Where:
 
-EO = Cell metabolic energy 
+EO = Cell metabolic energy
 
-EE = Tissue nutrient levels 
+EE = Tissue nutrient levels
 
 Z = Membrane impedance
 
@@ -561,13 +556,13 @@ This models cellular bioenergetics.
 
 dEO/dt = P(t) - rEOEE/(K+EO) dEE/dt = -rEOEE/(K+EO)
 
-Where: 
+Where:
 
-EO = Predator population 
+EO = Predator population
 
 EE = Prey population
 
-r = Growth rate 
+r = Growth rate
 
 K = Carrying capacity
 
@@ -589,14 +584,14 @@ The coupled differential equation structure remains invariant, demonstrating the
 [6] Mitchell M. (2009) Complexity: A Guided Tour. Oxford University Press.
 [7] Bar-Yam Y. (1997) Dynamics of Complex Systems. Addison-Wesley.
 [8] Sengupta B. et al. (2013) Information and efficiency in the nervous system—a synthesis. PLoS Computational Biology.  
-[9] Friston K. (2012). A free energy principle for biological systems. Entropy, 14(11), 2100-2121. 
-[10] Ladyman J. et al. (2020) What is a complex system? European Journal for Philosophy of Science. 
+[9] Friston K. (2012). A free energy principle for biological systems. Entropy, 14(11), 2100-2121.
+[10] Ladyman J. et al. (2020) What is a complex system? European Journal for Philosophy of Science.
 [11] Chaisson E. (2002) Cosmic Evolution. Harvard University Press.
 [12] Mitchell M. (2009) Complexity: A Guided Tour. Oxford University Press.
 
 # Applications Across Domains
 
-A key advantage of the integrated Observational Dynamics framework is its versatility for modeling phenomena across diverse scales and disciplines while revealing unifying thermodynamic symmetries [1,2]. 
+A key advantage of the integrated Observational Dynamics framework is its versatility for modeling phenomena across diverse scales and disciplines while revealing unifying thermodynamic symmetries [1,2].
 
 ### Physics
 
@@ -612,7 +607,7 @@ In biology, OD can model molecular recognition between enzymes and substrates [9
 
 ### Social Sciences
 
-In social sciences, OD can represent individuals and groups exchanging beliefs, behaviors or resources modeled as energy flows [11]. It enables studying emergence of norms, conventions, and collective dynamics [12,13]. 
+In social sciences, OD can represent individuals and groups exchanging beliefs, behaviors or resources modeled as energy flows [11]. It enables studying emergence of norms, conventions, and collective dynamics [12,13].
 
 ### Engineering
 
@@ -629,43 +624,44 @@ These applications demonstrate the potential for OD modeling across systems [21,
 ---
 
 [1] Mitchell M. (2009) Complexity: A Guided Tour. Oxford University Press.
-[2] Ladyman J. et al. (2020) What is a complex system? European Journal for Philosophy of Science. 
+[2] Ladyman J. et al. (2020) What is a complex system? European Journal for Philosophy of Science.
 [3] Kondepudi D. & Prigogine I. (2014) Modern thermodynamics. John Wiley & Sons.
 [4] Binney J. et al. (1992) The Theory of Critical Phenomena. Oxford University Press.
 [5] Zurek W.H. (1991) Decoherence and the transition from quantum to classical. Physics Today.
 [6] Trappenberg T. (2020) Fundamentals of Computational Neuroscience. Oxford University Press.
-[7] Dayan P. & Abbott L.F. (2001) Theoretical Neuroscience. MIT Press. 
+[7] Dayan P. & Abbott L.F. (2001) Theoretical Neuroscience. MIT Press.
 [8] Marder E. & Goaillard J.M. (2006) Variability, compensation and homeostasis in neuron and network function. Nature Reviews Neuroscience.
 [9] Dill K.A. & Bromberg S. (2010) Molecular Driving Forces. Garland Science.
 [10] Jørgensen S.E. & Fath B.D. (2004) Application of thermodynamic principles in ecology. Ecological Complexity.
 [11] Castellano C. et al. (2009) Statistical physics of social dynamics. Reviews of Modern Physics.
 [12] Galam S. (2012) Sociophysics: A review of Galam models. International Journal of Modern Physics C.
-[13] Perc M. et al. (2017) Statistical physics of human cooperation. Physics Reports. 
+[13] Perc M. et al. (2017) Statistical physics of human cooperation. Physics Reports.
 [14] Goodrich M.A. & Schultz A.C. (2007) Human-robot interaction: a survey. Foundations and Trends in Human-Computer Interaction.
 [15] Yanco H.A. & Drury J. (2004) Classifying human-robot interaction. Proceedings of the IEEE International Conference on Systems, Man and Cybernetics.  
 [16] Fraden J. (2016) Handbook of Modern Sensors. Springer.
 [17] Jordan M.I. & Mitchell T.M. (2015) Machine learning: Trends, perspectives, and prospects. Science.  
-[18] LeCun Y. et al. (2015) Deep learning. Nature. 
+[18] LeCun Y. et al. (2015) Deep learning. Nature.
 [19] Goodfellow I. et al. (2016) Deep Learning. MIT Press.
-[20] Jordan M.I. & Mitchell T.M. (2015) Machine learning: Trends, perspectives, and prospects. Science. 
+[20] Jordan M.I. & Mitchell T.M. (2015) Machine learning: Trends, perspectives, and prospects. Science.
 [21] Kelso J. S. (1995) Dynamic patterns: The self-organization of brain and behavior. MIT press.
 [22] Barzel B. & Barabási A.-L. (2013) Universality in network dynamics. Nature Physics.
 [23] Mitchell M. (2009) Complexity: A Guided Tour. Oxford University Press.
 
 ## Discussion
+
 The integrated Observational Dynamics framework provides a fresh perspective for understanding subjective experience as an emergent phenomenon arising from the thermodynamic coupling between an observer and its environment [1,2].
 
-By formally integrating concepts like self-organization, potential energy, impedance, inductive capacity, and entropy within a dynamical systems formalism, OD offers a versatile toolkit for studying the foundations of perception, cognition and consciousness across disciplines [3,4]. 
+By formally integrating concepts like self-organization, potential energy, impedance, inductive capacity, and entropy within a dynamical systems formalism, OD offers a versatile toolkit for studying the foundations of perception, cognition and consciousness across disciplines [3,4].
 
 Key strengths of the OD modeling approach include:
 
 - Providing an integrated, multiscale foundation bridging quantum to cosmic regimes [5].
-- Linking subjective first-person experience with objective physical dynamics [6]. 
+- Linking subjective first-person experience with objective physical dynamics [6].
 - Enabling computational and analytic modeling techniques leveraging thermodynamic and information-theoretic quantifiers [7,8].
 - Revealing deep symmetries and universal principles of observation across systems [9].
 - Allowing predictive yet falsifiable models relating interaction patterns to awareness [10,11].
 
-However, OD has limitations needing further research, including assumptions requiring empirical validation across domains [12,13] and open questions regarding the specific mechanisms relating entropy flows to arising order and consciousness [14,15]. 
+However, OD has limitations needing further research, including assumptions requiring empirical validation across domains [12,13] and open questions regarding the specific mechanisms relating entropy flows to arising order and consciousness [14,15].
 
 Nonetheless, adopting Observational Dynamics holds significant promise for gaining fundamental insights into the physical basis of subjective experience. It moves toward an integrated understanding of sentient systems at all scales [16,17].
 
@@ -676,22 +672,23 @@ Nonetheless, adopting Observational Dynamics holds significant promise for gaini
 [2] Ramstead et al. (2018). Answering Schrödinger’s question: A free-energy formulation. Physics of Life Reviews, 24, 1-16.  
 [3] Sengupta et al. (2013). Information and efficiency in the nervous system—a synthesis. PLoS Computational Biology, 9(7), e1003157.
 [4] Mitchell M. (2009) Complexity: A Guided Tour. Oxford University Press.
-[5] Chaisson E.J. (2002) Cosmic Evolution. Harvard University Press. 
+[5] Chaisson E.J. (2002) Cosmic Evolution. Harvard University Press.
 [6] Kleidon A. & Lorenz R.D. (2005) Non-equilibrium thermodynamics and the production of entropy. Springer.
 [7] DeDeo S. (2020) Information theory for intelligent people. arXiv:2010.02522.
 [8] Strogatz S.H. (2014) Nonlinear Dynamics and Chaos. Hachette UK.
 [9] Ladyman J. et al. (2020) What is a complex system? European Journal for Philosophy of Science.
-[10] Baltieri M. & Buckley C.L. (2019) Generative Architectures as Active Inference Machines. Entropy. 
+[10] Baltieri M. & Buckley C.L. (2019) Generative Architectures as Active Inference Machines. Entropy.
 [11] Da Costa et al. (2020) The behavioral foundations of higher-order thoughts in rats. Nature Human Behaviour.  
 [12] Kiverstein et al. (2019) The Mark of the Cognitive. Minds & Machines.
 [13] Mashour G.A. & Alkire M.T. (2013) Evolution of consciousness: Phylogeny, ontogeny, and emergence from general anesthesia. PNAS.
 [14] Koch C. (2019) The feeling of life itself: Why consciousness is widespread but can't be computed. MIT Press.
-[15] Tegmark M. (2017) Improved measures of integrated information. PLoS Computational Biology. 
+[15] Tegmark M. (2017) Improved measures of integrated information. PLoS Computational Biology.
 [16] Tononi et al. (2016) Integrated information theory: from consciousness to its physical substrate. Nature Reviews Neuroscience.
 [17] Dehaene et al. (2014) Toward a computational theory of conscious processing. Current Opinion in Neurobiology.
 
 # Conclusion
-Observational Dynamics provides an integrated, universal framework grounded in thermodynamics to elucidate the foundations of subjective experience. Representing awareness as an emergent process of self-organization arising from circular energetic coupling offers a fresh perspective to bridge across disciplines. 
+
+Observational Dynamics provides an integrated, universal framework grounded in thermodynamics to elucidate the foundations of subjective experience. Representing awareness as an emergent process of self-organization arising from circular energetic coupling offers a fresh perspective to bridge across disciplines.
 
 Formalizing concepts like potential energy, impedance, inductive capacity, entropy, and information flow within a dynamical systems language enables analytic rigor and computational power for investigating the origins of sentience. The OD toolkit facilitates testable models and reveals symmetries across observing systems.
 

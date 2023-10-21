@@ -1,3 +1,7 @@
+---
+title: Ecosystem Model
+description: This model is a simple ecosystem model that uses a neural network to model the population dynamics of a predator-prey ecosystem. It is used to demonst...
+---
 # Ecosystem Model
 
 This model is a simple ecosystem model that uses a neural network to model the population dynamics of a predator-prey ecosystem. It is used to demonstrate how to use the `EnergyReservoir` layer.

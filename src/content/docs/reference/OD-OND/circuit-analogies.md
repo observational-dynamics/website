@@ -1,6 +1,6 @@
 ---
 title: Circuit Analogies
-description: Circuit Analogies section for Observational Dynamics and Observational Network Dynamics
+description: Circuit Analogies section for Observational Dynamics and Observational Network Dynamics...
 ---
 
 ## Circuit Analogies

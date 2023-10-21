@@ -73,7 +73,7 @@ class Dipole {
   }
 }
 
-export default function SimulationCanvas({ width = 800, height =600 }) {
+export default function SimulationCanvas( width = 800, height =600 ) {
   const canvasRef = useRef();
 
   const renderEnvironment = (environment, ctx) => {
@@ -102,8 +102,8 @@ export default function SimulationCanvas({ width = 800, height =600 }) {
 
     canvasRef.current.width = 800
     canvasRef.current.height = 800
-    canvasRef.current.style.width = `${window.innerWidth}px`;
-    canvasRef.current.style.height = `${window.innerHeight}px`;
+    canvasRef.current.style.width = `${canvasRef.current.width}px`;
+    canvasRef.current.style.height = `${canvasRef.current.height}px`;
     canvasRef.current.style.border = '1px solid black';
 
     const environment = new Environment(canvasRef.current.width, canvasRef.current.height);

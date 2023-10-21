@@ -1,3 +1,7 @@
+---
+title: Regressor model
+description: This model is a simple regressor that uses a neural network to predict the output of a function. It is used to demonstrate how to use the PotentialBar...
+---
 # Regressor model
 
 This model is a simple regressor that uses a neural network to predict the output of a function. It is used to demonstrate how to use the `PotentialBarrier` and `ReplenishmentSource` layers.

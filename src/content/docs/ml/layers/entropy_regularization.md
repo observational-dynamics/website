@@ -1,3 +1,7 @@
+---
+title: Entropy Regularization
+description: The entropy regularization layer is a custom Keras layer that adds the entropy of the activations to the loss function. The entropy is the integral of...
+---
 # Entropy Regularization
 
 The entropy regularization layer is a custom Keras layer that adds the entropy of the activations to the loss function. The entropy is the integral of the negative of the input activations times the log of the input activations, and is thus a measure of the disorder of the activations. The entropy is added to the loss function each batch.

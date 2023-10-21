@@ -1,3 +1,7 @@
+---
+title: Replenishment Source
+description: The replenishment source layer is a custom Keras layer that applies a replenishment to the loss function. The replenishment is applied to the loss fun...
+---
 # Replenishment Source
 
 The replenishment source layer is a custom Keras layer that applies a replenishment to the loss function. The replenishment is applied to the loss function with respect to the inputs to the layer. The replenishment is a function of the losses, and is applied to the losses by adding the replenishment to the losses. The layer is stateless.

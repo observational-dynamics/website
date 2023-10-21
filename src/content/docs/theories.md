@@ -1,6 +1,6 @@
 ---
 title: Theories Summary
-description: A summary of the theories and models in the Observational Dynamics framework.
+description: A summary of the theories and models in the Observational Dynamics framework....
 ---
 
 ## Observational Dynamics
