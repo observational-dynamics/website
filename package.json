@@ -1,0 +1,26 @@
+{
+  "name": "astro",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astro-community/astro-embed-youtube": "^0.4.1",
+    "@astrojs/mdx": "^1.1.2",
+    "@astrojs/prism": "^3.0.0",
+    "@astrojs/react": "^3.0.3",
+    "@astrojs/starlight": "^0.11.1",
+    "@astrojs/vercel": "^5.0.2",
+    "@types/react": "^18.2.29",
+    "@types/react-dom": "^18.2.14",
+    "astro": "^3.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sharp": "^0.32.5"
+  }
+}
