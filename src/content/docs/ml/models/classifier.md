@@ -2,7 +2,7 @@
 title: Classifier Model
 description: This model is a simple classifier that uses a convolutional neural network to classify images. It is used to demonstrate how to use the EnergyReservoi...
 ---
-# Classifier Model
+## Classifier Model
 
 This model is a simple classifier that uses a convolutional neural network to classify images. It is used to demonstrate how to use the `EnergyReservoir` and `EntropyRegularizer` layers.
 

@@ -2,7 +2,7 @@
 title: Encoder Model
 description: This model is a simple autoencoder that uses a convolutional neural network to encode and decode images. It is used to demonstrate how to use the Info...
 ---
-# Encoder Model
+## Encoder Model
 
 This model is a simple autoencoder that uses a convolutional neural network to encode and decode images. It is used to demonstrate how to use the `InformationInterfaces` layer.
 

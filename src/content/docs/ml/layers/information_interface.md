@@ -2,7 +2,7 @@
 title: Information Interface Layer
 description: The information interface layer is a custom Keras layer that creates a number of parallel Dense layers that act as information interfaces to the layer...
 ---
-# Information Interface Layer
+## Information Interface Layer
 
 The information interface layer is a custom Keras layer that creates a number of parallel Dense layers that act as information interfaces to the layer. The number of interfaces is specified by the num_interfaces parameter. The input to the layer is passed through each interface, and the outputs of the interfaces are stacked into a tensor. The layer is stateless.
 

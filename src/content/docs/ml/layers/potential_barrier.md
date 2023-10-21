@@ -2,7 +2,7 @@
 title: Potential Barrier Layer
 description: The potential barrier layer is a custom Keras layer that applies a potential barrier to the gradients of the loss function. The potential barrier is a...
 ---
-# Potential Barrier Layer
+## Potential Barrier Layer
 
 The potential barrier layer is a custom Keras layer that applies a potential barrier to the gradients of the loss function. The potential barrier is applied to the gradients of the loss function with respect to the inputs to the layer. The potential barrier is a function of the norm of the gradients, and is applied to the gradients by multiplying the gradients by the potential barrier. The layer is stateless.
 
@@ -47,6 +47,6 @@ class PotentialBarrier(Layer):
         return self._impedance_coefficient
 ```
 
-## Usage
+### Usage
 
 The potential barrier layer is intended to be used as a regularizer, where the potential barrier is applied to the gradients of the loss function. The potential barrier is applied to the gradients of the loss function with respect to the inputs to the layer. The potential barrier is a function of the norm of the gradients, and is applied to the gradients by multiplying the gradients by the potential barrier. The layer is stateless.
