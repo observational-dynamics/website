@@ -16,6 +16,7 @@
     "@astrojs/react": "^3.0.3",
     "@astrojs/starlight": "^0.11.1",
     "@astrojs/vercel": "^5.0.2",
+    "@stylify/astro": "^0.6.2",
     "@types/react": "^18.2.29",
     "@types/react-dom": "^18.2.14",
     "astro": "^3.2.3",
