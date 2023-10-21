@@ -22,6 +22,11 @@ export default defineConfig({
       autogenerate: {
         directory: 'reference'
       }
+    }, {
+      label: 'Machine Learning',
+      autogenerate: {
+        directory: 'ml'
+      }
     }]
   }), mdx(), react()],
   output: "server",
