@@ -1,5 +1,5 @@
 ---
-title: EZ Water Sedding
+title: EZ Water Seeding
 description: A proposed device to induce precipitation and rainfall by seeding clouds with exclusion zone (EZ) water layers.
 ---
 EZ Water Seeding would utilize exclusion zone water layers generated through vortex motions to help induce precipitation and rainfall by promoting condensation.
