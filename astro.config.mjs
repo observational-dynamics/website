@@ -7,9 +7,6 @@ import vercel from "@astrojs/vercel/serverless";
 
 // https://astro.build/config
 export default defineConfig({                                                                                        
-  buildOptions: {                                                                                                                                                 
-      render: 'server',                                                                                                                                           
-  },  
   integrations: [starlight({
     title: 'My Docs',
     social: {
@@ -32,6 +29,10 @@ export default defineConfig({
       }
     }]
   }), mdx(), react()],
-  output: "server",
-  adapter: vercel()
+  adapter: vercel(),
+  output: 'hybrid',
+  buildOptions: {
+    prerender: true,
+    sitemap: true,
+  }
 });
