@@ -6,7 +6,10 @@ import react from "@astrojs/react";
 import vercel from "@astrojs/vercel/serverless";
 
 // https://astro.build/config
-export default defineConfig({
+export default defineConfig({                                                                                        
+  buildOptions: {                                                                                                                                                 
+      render: 'server',                                                                                                                                           
+  },  
   integrations: [starlight({
     title: 'My Docs',
     social: {
