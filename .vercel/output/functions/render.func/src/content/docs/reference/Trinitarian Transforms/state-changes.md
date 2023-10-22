@@ -20,7 +20,7 @@ The Trinitarian Transform is a set of nine state changes that can be applied to 
 - conception
 - birth
 
-### Trinitarian Transformations 
+### Trinitarian Transformations
 
 This corresponds to the nine states of the Trinitarian Transform:
 
