@@ -66,27 +66,27 @@ Finally, a key aspect of our approach is an interactive simulated environment bu
 
 The environment also receives action commands from the agent, facilitating interactions that dynamically change the simulation state over time. This grounding of the experience into an interactive persistent world is essential for continuity, embodiment, and memory.
 
-# 4. Experiments and Results
+## 4. Experiments and Results
 
-## 4.1 Experimental Setup
+### 4.1 Experimental Setup
 
 To evaluate our integrated architecture, we devise a comprehensive experimental framework with quantitative metrics and qualitative analysis.
 
 All models are implemented in PyTorch using the HuggingFace Transformers library for easier integration [17]. The interactive environment is built in Unity with a Python API.
 
-## 4.1 Perception Model
+### 4.1 Perception Model
 
 We select CLIP as the base image captioning model and fine-tune on COCO Captions plus our synthesized simulation datasets. The model is trained for 10 epochs using AdamW optimizer with a cosine decay learning rate schedule from 1e-5 to 1e-7 and batch size 64. We evaluate on SPICE, CIDER, and WMD for caption quality.
 
-## 4.2 Inner-Outer Models:
+### 4.2 Inner-Outer Models
 
 The inner model initializes from T5-Large pretrained on the BIG benchmark [18]. This is tuned for 10 epochs at 1e-4 learning rate on our situation simulation data for imagination. The outer model starts from RoBERTa-Large and is trained on SNLI and MultiNLI for entailment accuracy. We use a 80-10-10 train-dev-test split and early stopping with a patience of 3 epochs.
 
-## 4.3 Knowledge Base
+### 4.3 Knowledge Base
 
 We leverage SentenceBERT with stsb-roberta-large architecture pretrained on SNLI and STS Benchmark. The index is built using FAISS for fast nearest neighbor search based on cosine similarity. We tune the retrieval threshold based on development set performance.
 
-## 4.4 Environment Simulation
+### 4.4 Environment Simulation
 
 The Unity environment is configured with a bedroom scene with interactable object states. A Python API wraps access and visualization. Physics parameters are tuned to stabilize training.
 
@@ -94,7 +94,7 @@ For quantitative evaluation, we measure overall captioning accuracy on COCO, ima
 
 Qualitative assessments involve human-judged naturalness of generated captions, relevant knowledge recall, and evaluating imagination creativity. We also visualize module attentions for insight into model focus.
 
-# 5. Conclusion
+## 5. Conclusion
 
 In this paper, we presented a novel integrated agent perception system combining multimodal neural models and interactive simulation environments. The proposed architecture aims to address limitations of subjective grounding and persistence in artificial agents.
 
