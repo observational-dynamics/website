@@ -34,5 +34,6 @@ export default defineConfig({
   buildOptions: {
     prerender: true,
     sitemap: true,
+    site: "https://website-sand-tau.vercel.app/"
   }
 });
