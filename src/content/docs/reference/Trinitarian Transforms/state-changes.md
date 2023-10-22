@@ -1,6 +1,6 @@
 ---
-title: {title}
-description: {description}
+title: State Changes
+description: Trinitarian Transform state changes
 ---
 # Trinitarian State Changes
 
